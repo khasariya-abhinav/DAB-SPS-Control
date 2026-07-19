@@ -119,6 +119,14 @@ Rodríguez, A., Vázquez, A., Lamar, D. G., Hernando, M. M., & Sebastián, J., *
 
 ---
 
+<p align="center">
+  <img src="images/SPS_Designs.png" alt="Simulink Model model the Dual active Bridge (DAB) converter" width="850">
+</p>
+
+<p align="center">
+  <em><strong>Figure 2.</strong> Simulink Model of the Dual active Bridge (DAB) converter used to validate both the designs i.e. design 1 and 2.</em>
+</p>
+
 ### 2. SPS Design for Maximum Efficiency
 
 **Objective**
@@ -148,6 +156,14 @@ Unlike the previous two models, this implementation combines analytical paramete
 **Reference**
 
 Mi, C., Bai, H., Wang, C., & Gargies, S., *Operation, Design and Control of Dual H-Bridge-Based Isolated Bidirectional DC–DC Converter.*
+
+<p align="center">
+  <img src="images/SPS_Model_CL.png" alt="Simulink Model model the Dual active Bridge (DAB) converter for CC-CV" width="850">
+</p>
+
+<p align="center">
+  <em><strong>Figure 2.</strong> Simulink Model of the Dual active Bridge (DAB) converter for CC-CV, cascaded closed Loop .</em>
+</p>
 
 ## Software & Tools
 
