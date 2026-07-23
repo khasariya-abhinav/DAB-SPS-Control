@@ -204,23 +204,25 @@ The simulations were performed using the following converter specifications.
 
 ### Input Parameters
 
-<p align="center">
-  <img src="Results/SPS_CL_ip_step1.png" width="800">
-</p>
-<p align="center">
-  <em><strong>Figure 7.</strong> Leakage Inductor Parameters for Step 1 i.e. at 80% load.</em>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="Results/SPS_CL_ip_step1.png" width="100%"><br>
+      <b>(a)</b> Step 1 (80% Load)
+    </td>
+    <td align="center" width="50%">
+      <img src="Results/SPS_CL_ip_step2.png" width="100%"><br>
+      <b>(b)</b> Step 2 (Full Load)
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="Results/SPS_CL_ip_step2.png" width="800">
+  <em><strong>Figure 7.</strong> Leakage inductor current and associated electrical parameters during the CC–CV charging process under (a) 80% load and (b) full-load operating conditions.</em>
 </p>
-<p align="center">
-  <em><strong>Figure 7.</strong> Leakage Inductor Parameters for Step 2 i.e. at full load.</em>
-</p>
-
 ### Frequency Response (Bode Plots)
 
-<table align="center >
+<table align="center" >
 <tr>
 <td align="center"   >
 <img src="Results/Bode_OL.png" width="100%"><br>
