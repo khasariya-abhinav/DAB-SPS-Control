@@ -220,7 +220,8 @@ The simulations were performed using the following converter specifications.
 <p align="center">
   <em><strong>Figure 7.</strong> Leakage inductor current and associated electrical parameters during the CC–CV charging process under (a) 80% load and (b) full-load operating conditions.</em>
 </p>
-### Frequency Response (Bode Plots)
+
+## Frequency Response (Bode Plots)
 
 <table align="center" >
 <tr>
