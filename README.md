@@ -222,17 +222,17 @@ The simulations were performed using the following converter specifications.
 
 <table align="center">
 <tr>
-<td align="center"> width="33.33%
+<td align="center"  width="33.33% >
 <img src="Results/Bode_OL.png" width="100%"><br>
 <b>Figure 1.</b> 
 </td>
 
-<td align="center"> width="33.33%
+<td align="center"  width="33.33% >
 <img src="Results/Bode_individual_OL.png" width="100%"><br>
 <b>Figure 2.</b>
 </td>
 
-<td align="center"> width="33.33%
+<td align="center" width="33.33% > 
 <img src="Results/Bode_CL.png" width="100%"><br>
 <b>Figure 3.</b> 
 </td>
