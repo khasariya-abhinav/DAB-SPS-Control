@@ -222,19 +222,19 @@ The simulations were performed using the following converter specifications.
 
 <table align="center">
 <tr>
-<td align="center">
-<img src="Results/Bode_OL.png" width="300"><br>
-<b>Figure 1.</b> Bode magnitude response.
+<td align="center"> width="33.33%
+<img src="Results/Bode_OL.png" width="100%"><br>
+<b>Figure 1.</b> 
 </td>
 
-<td align="center">
-<img src="Results/Bode_individual_OL.png" width="300"><br>
-<b>Figure 2.</b> Bode phase response.
+<td align="center"> width="33.33%
+<img src="Results/Bode_individual_OL.png" width="100%"><br>
+<b>Figure 2.</b>
 </td>
 
-<td align="center">
-<img src="Results/Bode_CL.png" width="300"><br>
-<b>Figure 3.</b> Combined frequency response.
+<td align="center"> width="33.33%
+<img src="Results/Bode_CL.png" width="100%"><br>
+<b>Figure 3.</b> 
 </td>
 </tr>
 </table>
