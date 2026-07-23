@@ -220,7 +220,7 @@ The simulations were performed using the following converter specifications.
 
 ### Frequency Response (Bode Plots)
 
-<table align="center">
+<table align="center width="33.33%">
 <tr>
 <td align="center"  width="33.33% >
 <img src="Results/Bode_OL.png" width="100%"><br>
